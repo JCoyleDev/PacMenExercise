@@ -9,4 +9,7 @@ The goal of the PacMen exercise was to create a simple game where the user can g
 -Having the PacMen eat orbs that also float around the screen  
 -Add in ghosts  
 
-This project is unlicensed.![pacmenss](https://user-images.githubusercontent.com/110584003/197759745-836bde5e-53cb-47d0-bafa-9d8b21387d7f.png)
+This project is unlicensed.  
+   
+![pacmenss](https://user-images.githubusercontent.com/110584003/197759745-836bde5e-53cb-47d0-bafa-9d8b21387d7f.png)  
+
